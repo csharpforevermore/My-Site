@@ -1,2 +1,2 @@
-# site1
-Example of a possible blog site layout
+# My Site
+Example of a possible sites beginner template
